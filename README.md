@@ -1,4 +1,4 @@
-# Edited!
+# Edited! ver.2
 
 # Gatsby + Netlify CMS Starter
 
